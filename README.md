@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-**fbholai/fbholai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## I am Fardeen a enthousiastic techie
 
 - 🔭 I’m currently working on Devops/Platform Engineering
 - 🌱 I’m currently learning DevOps and Platform Engineering
