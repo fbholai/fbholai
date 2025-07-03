@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am Fardeen a enthousiastic techie
+## I am Fardeen a enthousiastic techie with a "automate everything mindset"
 
 - 🔭 I’m currently working on Devops/Platform Engineering
 - 🌱 I’m currently learning DevOps and Platform Engineering
